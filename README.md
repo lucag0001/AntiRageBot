@@ -11,8 +11,8 @@ Detects all current Ragebots and displays them in the console
 
 ## Instruction
 
-- Put the `lucag_AntiRagebot` folder in your `ressources` folder
-- Write `start lucag_AntiRagebot` in your `server.cfg`
+- Put the `AntiRageBot` folder in your `ressources` folder
+- Write `start AntiRageBot` in your `server.cfg`
 - Put all the Weapons, that should be whitelisted in the `config.lua`
 ## Screenshots
 
