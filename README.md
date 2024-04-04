@@ -16,7 +16,7 @@ Detects all current Ragebots and displays them in the console
 - Put all the Weapons, that should be whitelisted in the `config.lua`
 ## Screenshots
 
-![Detect Screenshot](https://cdn.discordapp.com/attachments/948287070105899140/1205887587978444800/y3Slezu.png?ex=65da0155&is=65c78c55&hm=57d3ade9a0e83d86fb898ab1ede040418f6b103e8df433fbeb39a51de1da17db&)
+![Detect Screenshot](https://i.imgur.com/Y01rpeh.png)
 
 
 ## Authorlinks
